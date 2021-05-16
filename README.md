@@ -7,7 +7,7 @@ Ini adalah Repository Hasil Implementasi dari Hasil Belajar REST API di WPU atau
 
 ## Lihat Hasil
 - Kamu bisa melihat hasil belajar ini dengan melihat hasilnya di Website saya.
-- Kunjungi **[`Website Ini`](https://gifaldyazkaa.github.io/wpu-belajar-rest-api/part4/latihan2.html)** Untuk melihat Hasil.
+- Kunjungi **[`Website Ini`](https://gifaldyazkaa.github.io/wpu-belajar-rest-api/)** Untuk melihat Hasil.
 - Jangan lupa ubah akhiran URL dengan nama folder yang tersedia di repository jika kamu ingin melihat hasil dari part ke part.
 
 ## Gak Ngerti?
