@@ -137,14 +137,14 @@ $latestVideoId = $result['items'][0]['id']['videoId'];
             </div>
             <div class="col-md-8">
               <h5>@sandhikagalih</h5>
-              <p>7000 Followers</p>
+              <p>65400 Followers</p>
             </div>
           </div>
 
           <div class="row mt-3 pb-3">
             <div class="col">
-              <div class="ig-thumbnail">
-                <p>Karena API Instagram sudah Depreciated (Diberhentikan) Dan diarahkan ke Basic Display API Milik Facebook, Jadi Mohon maaf, saya gak tau harus ngambil API Key nya darimana. Karena dari step ini sudah keluar jalur dari apa yang ada di tutorial REST API WPU. Jadi Mohon Maaf. Versi Instagram nya gak saya buat. ~gifaldyazkaa</p>
+              <div class="">
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis earum asperiores odio corporis iste nostrum qui aut architecto. Eos, voluptas.</p>
               </div>
             </div>
           </div>

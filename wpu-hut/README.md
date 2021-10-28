@@ -1,2 +1,3 @@
 # #4 - Bekerja Dengan JSON
-![Image](img/wpu-hut.png)
+
+![Image](https://cdn.upload.systems/uploads/X19i7PtC.png)
