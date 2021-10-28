@@ -1,3 +1,5 @@
 # #5 - Apa itu Public API?
+
 Hasil Implementasi dari Video REST API Part #5.
-![Image](img/wpu-movie.png)
+
+![Image](https://cdn.upload.systems/uploads/zA49x2BW.png)
